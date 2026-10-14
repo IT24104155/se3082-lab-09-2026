@@ -1,6 +1,6 @@
 # PC_Lab9
 
-## SE3082 — Lab 09: CUDA GPU Programming
+## SE3082 - Lab 09: CUDA GPU Programming
 
 **Student ID:** IT24104155  
 **Year:** 2026
