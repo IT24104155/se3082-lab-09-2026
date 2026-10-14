@@ -1,6 +1,6 @@
 # Lab 09 — IT24104155
 
-The original repository README is preserved as README.md. It contains only the title `PC_Lab9`; the exercise headings and instructions are in the notebook.
+README.md retains the original `PC_Lab9` title and adds an exercise overview and progress notes. The supplied exercise headings and instructions are preserved in the notebook.
 
 Open [the notebook in Colab](https://colab.research.google.com/github/IT24104155/se3082-lab-09-2026/blob/main/notebooks/IT24104155_Lab9.ipynb), select a GPU runtime, and run cells in order. Its previous outputs were cleared so new runs generate your own evidence. The notebook's original compile commands target `sm_75`; adjust these if the selected GPU requires another architecture.
 
